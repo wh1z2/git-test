@@ -8,5 +8,6 @@ public class gitTest {
         System.out.println("master test1");
         System.out.println("hotfix test1");
         System.out.println("这是在网页端作出的修改");
+        System.out.println("这是在网页端作出的修改2");
     }
 }

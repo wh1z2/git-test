@@ -1,3 +1,5 @@
+package com.ECUT.javaSE.day1;
+
 import java.util.Scanner;
 
 public class practice5 {

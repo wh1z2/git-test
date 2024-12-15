@@ -1,6 +1,8 @@
+package com.ECUT.javaSE.day1;
+
 import java.util.Scanner;
 
-public class practice {
+public class practice1 {
     public static void main(String[] args) {
         byte a = 10;
         short b = a;
